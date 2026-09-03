@@ -1,0 +1,6 @@
+@ForgeCI.Api_HostAddress = http://localhost:5241
+
+GET {{ForgeCI.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

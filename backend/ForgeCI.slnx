@@ -1,2 +1,6 @@
 <Solution>
+  <Project Path="ForgeCI.Api/ForgeCI.Api.csproj" />
+  <Project Path="ForgeCI.Core/ForgeCI.Core.csproj" />
+  <Project Path="ForgeCI.Infrastructure/ForgeCI.Infrastructure.csproj" />
+  <Project Path="ForgeCI.Worker/ForgeCI.Worker.csproj" />
 </Solution>

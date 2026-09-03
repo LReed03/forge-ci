@@ -1,0 +1,13 @@
+# .NET build output
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+
+# VS Code local settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
